@@ -1,3 +1,7 @@
+- [Demo](https://airtime-cash-podb.vercel.app)
+- [GitHub Repo](https://github.com/ushashir/decagon-chatapp-frontend)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
