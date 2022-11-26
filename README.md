@@ -1,4 +1,4 @@
-- [Demo](https://airtime-cash-podb.vercel.app)
+- [Demo](https://decagon-chatapp-frontend.vercel.app/login)
 - [GitHub Repo](https://github.com/ushashir/decagon-chatapp-frontend)
 
 
